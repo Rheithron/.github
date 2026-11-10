@@ -1,6 +1,6 @@
 # RHEITHRON
 
-**Riding the wave.**
+**Ride the wave.**
 
 RHEITHRON is an independent software development initiative, home to Jasper and Final Craft.
 
